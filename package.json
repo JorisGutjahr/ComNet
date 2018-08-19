@@ -1,0 +1,29 @@
+{
+  "name": "comnet",
+  "version": "1.0.0",
+  "description": "A decentrelized Social Network",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JorisGutjahr/ComNet.git"
+  },
+  "keywords": [
+    "decentrelized",
+    "Social",
+    "Network"
+  ],
+  "author": "Joris Gutjahr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorisGutjahr/ComNet/issues"
+  },
+  "homepage": "https://github.com/JorisGutjahr/ComNet#readme"
+}
